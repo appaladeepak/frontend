@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/sass": "^1.45.0",
+    "@types/sass-loader": "^8.0.4",
+    "@types/webpack": "^5.28.1",
+    "css-loader": "^6.7.4",
+    "style-loader": "^3.3.3"
+  }
+}
